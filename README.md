@@ -40,3 +40,6 @@ Be The Hero is an application that will connect people who are willing to help N
 - yarn start ou npm start 
 - scannear código do expo pelo App do Expo
 - Pode ser acessado pelo Android Studio
+
+#### Muito importante iniciar o Backend primeiro!
+
