@@ -20,6 +20,7 @@
   #rocketseat #bethehero #omnistack #nodejs #javascript #react #reactnative #express #sequelize #insomnia #mobile #ios #android #eslint #mvc #androidstudio 
 </h3>
 
+
 ## :rocket: Sobre a Aplicação
 
 
@@ -30,6 +31,8 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 Be The Hero is an application that will connect people who are willing to help Non-governmental non-profit organizations, which often need some value to address a specific case and this system has come to solve just that.
 </h5>
 
+##### Linkedin: https://www.linkedin.com/in/michel-bernardo/
+##### Frontend Web: https://github.com/michelbernardods/ong-frontend
 
 # Requisitos
 
