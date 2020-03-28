@@ -43,3 +43,18 @@ Be The Hero is an application that will connect people who are willing to help N
 
 #### Muito importante iniciar o Backend primeiro!
 
+
+
+### 💻 Preview
+
+<h1 align="center">
+    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-mobile/blob/master/img1.jpeg" width="200px" />
+    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-mobile/blob/master/img2.jpeg" width="200px" />
+    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-mobile/blob/master/img3.jpeg" width="200px" />
+</h1>
+
+
+<h1 align="center">
+    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-mobile/blob/master/img4.png"  />
+    <img alt="Be The Hero" src="https://github.com/michelbernardods/ong-mobile/blob/master/img5.png"  />
+</h1>
