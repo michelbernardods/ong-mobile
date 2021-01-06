@@ -21,11 +21,8 @@
 </h3>
 
 
-## :rocket: Sobre a Aplicação
+## :rocket: About the Application
 
-
-<h5> 
-Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda organizações  sem fins lucrativos, que muitas vezes precisa de algum valor para tratar algum caso específico,  Esse sistema veio para resolver exatamente isso. </h5>
 
 <h5>
 Be The Hero is an application that will connect people who are willing to help Non-governmental non-profit organizations, which often need some value to address a specific case and this system has come to solve just that.
@@ -34,19 +31,19 @@ Be The Hero is an application that will connect people who are willing to help N
 ##### Linkedin: https://www.linkedin.com/in/michel-bernardo/
 ##### Frontend Web: https://github.com/michelbernardods/ong-frontend
 
-# Requisitos
+# Requirements
 
 
-- Para acessar a aplicação precisa ter instalado no celular Expo.
-- Para ter acesso ao App precisao baixar o repositório do backend: https://github.com/michelbernardods/ong-backend
-- yarn init ou npm install para baixar as dependências
-- yarn start ou npm start 
-- scannear código do expo pelo App do Expo
-- Pode ser acessado pelo Android Studio
+- To access the application, you must have it installed on the Expo mobile phone.
+- To access the App you need to download the backend repository: https://github.com/michelbernardods/ong-backend
+- yarn init or npm install to download dependencies
+- yarn start or npm start
+- scan expo code using the Expo App
+- Can be accessed through Android Studio
 
-#### Muito importante iniciar o Backend primeiro!
+#### Very important to start the Backend first!
 
-## :rocket: Tecnologias 
+## :rocket: Technology 
 
 - React Native
 - Expo
