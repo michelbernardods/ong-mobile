@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<h3 align="center">
-  #rocketseat #bethehero #omnistack #nodejs #javascript #react #reactnative #express #sequelize #insomnia #mobile #ios #android #eslint #mvc #androidstudio 
-</h3>
-
 
 ## :rocket: About the Application
 
